@@ -19,7 +19,7 @@ I'm actively seeking Fall '23 / Winter '24 internships and/or full time roles st
 - **Dev** : Elasticsearch, Rasa, Dialogflow, Hugging Face, Docker, AWS S3, AWS Lambda, AWS Step Functions, Azure
 
 ## Know more:
-[Experience](experience.md#experience) | [Projects](contact.md#contact)
+[Experience](experience.md#experience) | [Projects](projects.md#projects)
 
 
 ## Contact:
