@@ -5,7 +5,7 @@
 3. [Product](#product)
 
 
-## ML / CV / NLP 
+## Machine Learning / Vision / Language 
 
 ### Machine Learning Algorithms - 
 Implemented K-means clustering on images, Principal Component Analysis for decorrelation,
