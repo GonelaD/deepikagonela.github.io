@@ -2,7 +2,7 @@
 
 I'm Hema Varshita, and I find myself diving deep into the fascinating realms of Machine Learning and Data Science as a grad student at UW. My journey began with a Bachelor's degree in EE/ML from IIT Hyderabad, and it's been quite a ride since then. 
 
-During my stint at Publicis Sapient, I had the privilege of contributing significantly to KaaS, Publicis Sapient's NLP accelerator. We crafted some exciting NLP proofs of concept, ranging from Chatbots to Semantic Information services, all aimed at pushing the boundaries of what's possible. Outside work, I also explored the domain of Product Management (more details in [projects](projects.md#projects)) ! 
+During my stint at Publicis Sapient, I had the privilege of contributing significantly to KaaS, Publicis Sapient's NLP accelerator. We crafted some exciting NLP proofs of concept, ranging from Chatbots to Semantic Information and Product search services, and Perception Analysis Platforms. Outside work, I also explored the domain of Product Management (more details in [projects](projects.md#projects)) ! 
 
 My time at Amazon as an ML intern was equally enriching. I got to dive into  ML systems and workflows, optimizing serverless model training for AWS's Recommender Systems and making deployments smoother! 
 
