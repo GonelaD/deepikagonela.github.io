@@ -1,2 +1,12 @@
 title: Hema Varshita Muppalla
 theme: jekyll-theme-minimal
+
+navigation:
+  - title: About
+    url: /about
+  - title: Projects
+    url: /projects
+  - title: Experience
+    url: /experience
+  - title: Contact
+    url: /contact
