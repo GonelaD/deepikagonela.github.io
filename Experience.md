@@ -5,10 +5,10 @@
 *Jun 2023 - Sep 2023 | Santa Clara, CA *
 
 
-- **Recommender Systems:** Implemented Serverless Model Training Workflows for Recommendation Algorithms for AWS Personalize. Leveraged Infrastructure as Code principles to optimize infrastructure deployment.
+- **Recommender Systems:** Implemented Serverless Model Training Workflows for Recommendation Algorithms for [AWS Personalize](https://docs.aws.amazon.com/personalize/latest/dg/how-it-works.html). Leveraged Infrastructure as Code principles to optimize infrastructure deployment.
 - **Workflows:** Migrated the workflows to AWS Step Functions & introduced support for parallel model training, mitigating two-phase deployments, addressing scaling issues, visualizing workflow components & cutting debugging time by 50%.
 
-## Publicis Sapient
+## [Publicis Sapient](https://www.publicissapient.com/solutions/kaas)
 **Senior Data Scientist**  
 *Aug 2021 - Sep 2022 | Bengaluru, India*
 
