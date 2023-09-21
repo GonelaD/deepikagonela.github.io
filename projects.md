@@ -50,4 +50,4 @@ Uncovered data insights around the Nike customer journey and provide data-backed
 Devised user personas, conducted interviews to validate assumptions and produced a customer journey map pinpointing key touchpoints and areas for improvement, contributing to an enhanced user experience for Amazon Prime Video.
 
 
-[Resume](https://drive.google.com/file/d/12KRtfnoA9yQMReRObOS0FLZEHmJHqFxJ/view?usp=sharing) | [Experience](experience.md#experience) 
+[Resume](https://drive.google.com/file/d/12KRtfnoA9yQMReRObOS0FLZEHmJHqFxJ/view?usp=sharing) | [Experience](experience.md#experience) | [Email](mailto:hmuppa@uw.edu) | [LinkedIn](https://www.linkedin.com/in/hema-varshita-m) | [GitHub](https://github.com/hvarshita)
