@@ -10,6 +10,13 @@ Beyond the tech world, I love memes, dogs, mountains, sunsets and contemplating 
 
 I'm actively seeking Fall '23 / Winter '24 internships and/or full time roles starting April '24 as Data Scientist, Machine Learning Engineer, Software Engineer, Applied Scientist. View my [Projects] and [Work Experience] here. 
 
+## Know more:
+[Resume](https://drive.google.com/file/d/12KRtfnoA9yQMReRObOS0FLZEHmJHqFxJ/view?usp=sharing) | [Experience](Experience.md#experience) | [Projects](projects.md#projects)
+
+## Education: 
+- M.S., Data Science | University of Washington, Seattle (Sep. 2022 - Mar. 2024)
+- B.Tech., Electrical Engineering , Minor: Economics | Indian Institute of Technology, Hyderabad (Jul. 2017 - May 2021)
+
 
 ## Technical Skills: 
 
@@ -17,9 +24,6 @@ I'm actively seeking Fall '23 / Winter '24 internships and/or full time roles st
 - **Languages & Web**: Python, C/C++, Java, TypeScript, R, SQL, Flask, RestAPI, Spark, Scala
 - **ML Frameworks**: Pytorch, Tensorflow, Theano, Caffe
 - **Dev** : Elasticsearch, Rasa, Dialogflow, Hugging Face, Docker, AWS S3, AWS Lambda, AWS Step Functions, Azure
-
-## Know more:
-[Experience](experience.md#experience) | [Projects](projects.md#projects)
 
 
 ## Contact:
