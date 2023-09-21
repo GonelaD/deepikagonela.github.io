@@ -50,4 +50,4 @@ Uncovered data insights around the Nike customer journey and provide data-backed
 Devised user personas, conducted interviews to validate assumptions and produced a customer journey map pinpointing key touchpoints and areas for improvement, contributing to an enhanced user experience for Amazon Prime Video.
 
 
-[Home](#home) | [Experience](experience.md#experience) | [Contact](contact.md#contact)
+[Resume](https://drive.google.com/file/d/12KRtfnoA9yQMReRObOS0FLZEHmJHqFxJ/view?usp=sharing) | [Experience](experience.md#experience) | [Contact](#contact)
