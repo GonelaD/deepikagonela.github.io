@@ -1,3 +1,16 @@
+## Hello!
+
+I'm Hema Varshita, and I find myself diving deep into the fascinating realms of Machine Learning and Data Science as a grad student at UW. My journey began with a Bachelor's degree in EE/ML from IIT Hyderabad, and it's been quite a ride since then. 
+
+During my stint at Publicis Sapient, I had the privilege of contributing significantly to KaaS, Publicis Sapient's NLP accelerator. We crafted some exciting NLP proofs of concept, ranging from Chatbots to Semantic Information services, all aimed at pushing the boundaries of what's possible. Outside work, I also explored the domain of Product Management (more details in [projects](https://hvarshita.github.io/projects)) ! 
+
+My time at Amazon as an ML intern was equally enriching. I got to dive into  ML systems and workflows, optimizing serverless model training for AWS Personalize and making deployments smoother! 
+
+Beyond the tech world, I love memes, dogs, mountains, sunsets and contemplating life at ungodly hours. I like to think of myself as a blend of tech-savvy and a lover of life's little quirks. 
+
+I'm actively seeking Fall '23 / Winter '24 internships and/or full time roles starting April '24 as Data Scientist, Machine Learning Engineer, Software Engineer, Applied Scientist. View my [Projects](https://hvarshita.github.io/projects) and [Work Experience](https://hvarshita.github.io/projects) here. 
+
+
 ## Technical Skills: 
 
 - **Domain**: Machine Learning, Data Science, Vision & Image, Language Processing, MLOps
@@ -5,26 +18,11 @@
 - **ML Frameworks**: Pytorch, Tensorflow, Theano, Caffe
 - **Dev** : Elasticsearch, Rasa, Dialogflow, Hugging Face, Docker, AWS S3, AWS Lambda, AWS Step Functions, Azure
 
+## Know more:
+[Experience](experience.md#experience) | [Projects](contact.md#contact)
 
-## Technical Projects:
 
-### Machine Learning Algorithms - 
-Implemented K-means clustering on images, Principal Component Analysis for decorrelation,
-Maximum Likelihood Estimates, Gaussian Mixture Models, and Sparse Auto Encoder from scratch (using only Numpy, Scipy)
-
-### NLP Chatbot - 
-This project involves building a chatbot using a Seq2Seq (Sequence-to-Sequence) model, trained on a dataset of movie dialogue lines. The chatbot can engage in text-based conversations by generating responses to user input. 
-
-### Researching Recession Proof Retail Trades -
-Conducted research on the impact of recessions on retail trades and analyzed sales trends during economic fluctuations. Applied statistical methods, such as Welch test, Linear Regression, and ANOVA to provide data-driven insights into the changes in retail trades during recessions
-
-### Visual Question Answering - 
-Integrated the VGG16 network for image understanding and an LSTM model for textual understanding on subset of VQA dataset to generate probability distribution of answers with a top-1 accuracy of 43%.
-
-### Self-Supervised Learning on Visual Data - 
-Developed a self supervised learning framework using SimCLR for object classification and detection using subsets of ImageNet dataset outperforming baseline supervised classification algorithm by 5%.
-
-# Healthcare Visualization of Washington State - 
-Designed and implemented a Tableau dashboard showing informational statistics about clinics, pharmacies, and hospitals in the Washington state filtered by city. Derived a ranking for the top ten hospitals and clinics, and analyzed relationships between hospital beds and population
+## Contact:
+[Email](mailto:hmuppa@uw.edu) | [LinkedIn](https://www.linkedin.com/in/hema-varshita-m) | [GitHub](https://github.com/hvarshita)
 
 
