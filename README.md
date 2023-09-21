@@ -1,3 +1,5 @@
+[Resume](https://drive.google.com/file/d/12KRtfnoA9yQMReRObOS0FLZEHmJHqFxJ/view?usp=sharing) | [Experience](Experience.md#experience) | [Projects](projects.md#projects) | [Email](mailto:hmuppa@uw.edu) | [LinkedIn](https://www.linkedin.com/in/hema-varshita-m) | [GitHub](https://github.com/hvarshita)
+
 ## Hello!
 
 I'm Hema Varshita, and I find myself diving deep into the fascinating realms of Machine Learning (ML) and Data Science as a graduate student at University of Washington, Seattle. My journey began with a Bachelor's degree in EE/ML from IIT Hyderabad, and it's been quite a ride since then. 
@@ -14,8 +16,14 @@ I'm actively seeking Fall '23 / Winter '24 internships and/or full time roles st
 [Resume](https://drive.google.com/file/d/12KRtfnoA9yQMReRObOS0FLZEHmJHqFxJ/view?usp=sharing) | [Experience](Experience.md#experience) | [Projects](projects.md#projects)
 
 ## Education: 
-- M.S., Data Science | University of Washington, Seattle (Sep. 2022 - Mar. 2024)
-- B.Tech., Electrical Engineering , Minor: Economics | Indian Institute of Technology, Hyderabad (Jul. 2017 - May 2021)
+| **Education**                           |                                     |
+| --------------------------------------- | ----------------------------------- |
+| M.S., Data Science                      | University of Washington, Seattle   |
+|                                         | (Sep. 2022 - Mar. 2024)             |
+| B.Tech., Electrical Engineering         | Indian Institute of Technology,      |
+|                                         | Hyderabad                          |
+| Minor: Economics                        | (Jul. 2017 - May 2021)              |
+
 
 
 ## Technical Skills: 
