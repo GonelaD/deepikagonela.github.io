@@ -2,6 +2,8 @@ title: Hema Varshita Muppalla
 theme: jekyll-theme-minimal
 
 navigation:
+  - title: Home
+    url: /
   - title: About
     url: /about
   - title: Projects
