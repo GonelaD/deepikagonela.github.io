@@ -17,11 +17,11 @@ I'm **actively seeking Fall '23 / Winter '24 internships and/or full time roles 
 
 
 ## Education:
-# Master of Science (M.S.) in Data Science
+### Master of Science (M.S.) in Data Science
 - **University:** University of Washington, Seattle
 - **Duration:** Sep. 2022 - Mar. 2024
   
-# Bachelor of Technology (B.Tech.) in Electrical Engineering with a Minor in Economics
+### Bachelor of Technology (B.Tech.) in Electrical Engineering with a Minor in Economics
 - **University:** Indian Institute of Technology, Hyderabad
 - **Duration:** Jul. 2017 - May 2021
 
