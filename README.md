@@ -10,7 +10,7 @@ My time at **Amazon Web Services** as an **SWE (ML) Intern** was equally enrichi
 
 Beyond the tech world, I love memes, dogs, mountains, sunsets and contemplating life at ungodly hours. I like to think of myself as a blend of tech-savvy and a lover of life's little quirks. 
 
-I'm **actively seeking Fall '23 / Winter '24 internships and/or full time roles starting April '24** as Data Scientist, Machine Learning Engineer, Software Engineer, Applied Scientist. View my [Projects](projects.md#projects) and [Work Experience](Experience.md#experience) here. 
+I'm **actively seeking Fall '23 / Winter '24 internships and/or full time roles starting April '24 as Data Scientist, Machine Learning Engineer, Software Engineer, Applied Scientist, Product Analyst, Quantitative Analyst**. View my [Projects](projects.md#projects) and [Work Experience](Experience.md#experience) here. 
 
 ## Know more:
 [Resume](https://drive.google.com/file/d/12KRtfnoA9yQMReRObOS0FLZEHmJHqFxJ/view?usp=sharing) | [Experience](Experience.md#experience) | [Projects](projects.md#projects)
