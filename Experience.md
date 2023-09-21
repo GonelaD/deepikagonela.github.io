@@ -1,7 +1,7 @@
 
 [Resume](https://drive.google.com/file/d/12KRtfnoA9yQMReRObOS0FLZEHmJHqFxJ/view?usp=sharing) | [Projects](projects.md#projects) | [Email](mailto:hmuppa@uw.edu) | [LinkedIn](https://www.linkedin.com/in/hema-varshita-m) | [GitHub](https://github.com/hvarshita)
 
-###Experience
+# Experience
 
 ## Amazon Web Services - AI 
 **Software Engineer (Machine Learning) Intern**  
