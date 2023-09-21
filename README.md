@@ -16,8 +16,8 @@ I'm **actively seeking Fall '23 / Winter '24 internships and/or full time roles 
 [Resume](https://drive.google.com/file/d/12KRtfnoA9yQMReRObOS0FLZEHmJHqFxJ/view?usp=sharing) | [Experience](Experience.md#experience) | [Projects](projects.md#projects)
 
 ## Education: 
-M.S, Data Science                                   | Sep. 2022 - Mar. 2024
-B.Tech., Electrical Engineering (Minor : Economics) | Jul. 2017 - May 2021
+M.S, Data Science                                   | (Sep. 2022 - Mar. 2024)
+B.Tech., Electrical Engineering (Minor : Economics) | (Jul. 2017 - May 2021)
 
 
 
