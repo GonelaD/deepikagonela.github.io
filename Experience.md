@@ -6,15 +6,15 @@
 ## Amazon Web Services - AI 
 **Software Engineer (Machine Learning) Intern**  
 *Jun 2023 - Sep 2023 | Santa Clara, CA*
-
-
+- *Tech Stack: AWS Lambda, Step Functions, Glue, IAM, S3, CloudWatch; Java, TypeScript, Javascript, Kotlin*
+  
 - **Recommender Systems:** Implemented Serverless Model Training Workflows for Recommendation Algorithms for [AWS Personalize](https://docs.aws.amazon.com/personalize/latest/dg/how-it-works.html). Leveraged Infrastructure as Code principles to optimize infrastructure deployment.
 - **Workflows:** Migrated the workflows to AWS Step Functions & introduced support for **parallel model training**, mitigating two-phase deployments, addressing scaling issues, visualizing workflow components & **cutting debugging time by 50%**.
 
 ## [Publicis Sapient](https://www.publicissapient.com/solutions/kaas)
 **Senior Data Scientist**  
 *Aug 2021 - Sep 2022 | Bengaluru, India*
-
+- *Tech Stack: Natural Language Processing, Hugging Face, Elastic Search, Rasa, Dialogflow, Azure Bot Framework, MongoDB, Azure SQL, Python, Tableau, Spark, Scala, Tensorflow, PyTorch, RestAPI, AWS CloudWatch.*
 
 - **Aspect Based Sentiment Analysis:** Scraped employee reviews from anonymous review platforms and labelled over 1500 data points. Trained T5 and DistilBERT models and experimented with merging with benchmark datasets achieving best f1-score of 0.80 & 0.73 for negative & positive sentiments respectively.
 - **Conversational AI:** Built the cognitive intelligence chatbot platform using Elasticsearch, Rasa, and AWS to answer queries from user uploaded / client-specific knowledge base. Deployed to FastAPI endpoint for faster retrieval. The cognitive platform used for customer service resulted in **1.84x** more conversions. 
@@ -23,7 +23,8 @@
 
 **Data Science Intern**  
 *Jun 2020 - Jul 2020 | Bengaluru, India*
-
+- *Tech Stack: Computer Vision, Python, Deep Learning, OpenCV, OpenPose, Tensorflow*
+  
 - **Retail Video Analytics:** Built an end-to-end deep learning pipeline using 3D ConvNets, Keras OpenPose, and a transfer learning model built using a VGG based network to generate **real-time actionable business insights** from retail store CCTV footages. The model detects metrics - footfall & product interaction count with an accuracy of **99.9%**.
 
 ## Featured - 
