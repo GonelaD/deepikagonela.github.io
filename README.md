@@ -4,7 +4,7 @@
 
 I'm Hema Varshita, and I find myself diving deep into the fascinating realms of Machine Learning (ML) and Data Science as a graduate student at **University of Washington, Seattle**. My journey began with a Bachelor's degree in EE/ML from IIT Hyderabad, and it's been quite a ride since then. 
 
-I recently concluded my internship at **Amazon Web Services** as an **SWE (ML) Intern** where I I got to dive into  ML systems and workflows, optimizing serverless model training for AWS's Recommender Systems and making deployments smoother! 
+I recently concluded my internship at **Amazon Web Services** as an **SWE (ML) Intern** where I got to dive into  ML systems and workflows, optimizing serverless model training for AWS's Recommender Systems and making deployments smoother! 
 
 Previously, during my stint at **Publicis Sapient** as a **Senior Data Scientist**, I had the privilege of contributing significantly to KaaS, Publicis Sapient's NLP accelerator. We crafted some exciting NLP proofs of concept, ranging from Chatbots to Semantic Information services, and Perception Analysis Platforms. Outside work, I also explored the domain of **Product Management** (more details in [projects](projects.md#projects))! 
 
