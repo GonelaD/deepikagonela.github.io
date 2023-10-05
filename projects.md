@@ -1,4 +1,4 @@
-[Resume](https://drive.google.com/file/d/1At305m3rSn5zuOt7-ZzUJ9BrtVHFJ1w4/view?usp=sharing) | [Experience](Experience.md#experience) | [Email](mailto:deepika.gonela@stonybrook.edu) | [LinkedIn](https://www.linkedin.com/in/deepika-gonela/) | [GitHub](https://github.com/gonelad)
+[Resume](https://drive.google.com/file/d/1At305m3rSn5zuOt7-ZzUJ9BrtVHFJ1w4/view?usp=sharing) | [Experience](experience.md#experience) | [Email](mailto:deepika.gonela@stonybrook.edu) | [LinkedIn](https://www.linkedin.com/in/deepika-gonela/) | [GitHub](https://github.com/gonelad)
 
 # Projects:
 
