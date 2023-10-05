@@ -1,5 +1,5 @@
 
-[Resume](https://drive.google.com/file/d/12KRtfnoA9yQMReRObOS0FLZEHmJHqFxJ/view?usp=sharing) | [Projects](projects.md#projects) | [Email](mailto:hmuppa@uw.edu) | [LinkedIn](https://www.linkedin.com/in/hema-varshita-m) | [GitHub](https://github.com/hvarshita)
+[Resume](https://drive.google.com/file/d/1At305m3rSn5zuOt7-ZzUJ9BrtVHFJ1w4/view?usp=sharing) | [Projects](projects.md#projects) | [Email](mailto:deepika.gonela@stonybrook.edu) | [LinkedIn](https://www.linkedin.com/in/deepika-gonela/) | [GitHub](https://github.com/gonelad)
 
 # Experience
 
@@ -31,4 +31,4 @@
 - Winner of "Partnering for Client Impact" in Internal Rewards and Recognitions at Publicis Sapient.
 - Among the top 150 students across India to attend the **Google Research Summer School (2020)**.
 
-[Resume](https://drive.google.com/file/d/12KRtfnoA9yQMReRObOS0FLZEHmJHqFxJ/view?usp=sharing) | [Projects](projects.md#projects) | [Email](mailto:hmuppa@uw.edu) | [LinkedIn](https://www.linkedin.com/in/hema-varshita-m) | [GitHub](https://github.com/hvarshita)
+[Resume](https://drive.google.com/file/d/1At305m3rSn5zuOt7-ZzUJ9BrtVHFJ1w4/view?usp=sharing) | [Projects](projects.md#projects) | [Email](mailto:deepika.gonela@stonybrook.edu) | [LinkedIn](https://www.linkedin.com/in/deepika-gonela/) | [GitHub](https://github.com/gonelad)
