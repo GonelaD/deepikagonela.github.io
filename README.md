@@ -1,8 +1,10 @@
 [Resume](https://drive.google.com/file/d/1At305m3rSn5zuOt7-ZzUJ9BrtVHFJ1w4/view?usp=sharing) | [Experience](Experience.md#experience) | [Projects](projects.md#projects) | [Email](mailto:deepika.gonela@stonybrook.edu) | [LinkedIn](https://www.linkedin.com/in/deepika-gonela/) 
 
-# Hello!
+# Greetings!
 
-I'm Hema Varshita, and I find myself diving deep into the fascinating realms of Machine Learning (ML) and Data Science as a graduate student at **University of Washington, Seattle**. My journey began with a Bachelor's degree in EE/ML from IIT Hyderabad, and it's been quite a ride since then. 
+I'm Deepika Gonela, a versatile professional with extensive experience in both Full Stack Development and Data Science. My journey in the tech world has been marked by a rich blend of hands-on expertise and an insatiable curiosity to explore the boundaries of these two fascinating fields.
+
+Educationally, I am pursuing a Master of Science in Computer Science with a specialization in Data Science at Stony Brook University. My academic voyage began at the renowned Indian Institute of Technology Hyderabad (IIT Hyd), where I earned my Bachelor of Technology in Computer Science. 
 
 I recently concluded my internship at **Amazon Web Services** as an **SWE (ML) Intern** where I got to dive into  ML systems and workflows, optimizing serverless model training for AWS's Recommender Systems and making deployments smoother! 
 
