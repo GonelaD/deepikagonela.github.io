@@ -1,4 +1,4 @@
-[Resume](https://drive.google.com/file/d/12KRtfnoA9yQMReRObOS0FLZEHmJHqFxJ/view?usp=sharing) | [Experience](Experience.md#experience) | [Projects](projects.md#projects) | [Email](mailto:hmuppa@uw.edu) | [LinkedIn](https://www.linkedin.com/in/hema-varshita-m) 
+[Resume](https://drive.google.com/file/d/1At305m3rSn5zuOt7-ZzUJ9BrtVHFJ1w4/view?usp=sharing) | [Experience](Experience.md#experience) | [Projects](projects.md#projects) | [Email](mailto:deepika.gonela@stonybrook.edu) | [LinkedIn](https://www.linkedin.com/in/deepika-gonela/) 
 
 # Hello!
 
@@ -13,17 +13,17 @@ Beyond the tech world, I love memes, dogs, mountains, sunsets and contemplating 
 I'm **actively seeking Fall '23 / Winter '24 internships and/or full time roles starting April '24 as Data Scientist, Machine Learning Engineer, Software Engineer, Applied Scientist, Product Analyst, Quantitative Analyst**. View my [Projects](projects.md#projects) and [Work Experience](Experience.md#experience) here. 
 
 ## Know more:
-[Resume](https://drive.google.com/file/d/12KRtfnoA9yQMReRObOS0FLZEHmJHqFxJ/view?usp=sharing) | [Experience](Experience.md#experience) | [Projects](projects.md#projects)
+[Resume](https://drive.google.com/file/d/1At305m3rSn5zuOt7-ZzUJ9BrtVHFJ1w4/view?usp=sharing) | [Experience](Experience.md#experience) | [Projects](projects.md#projects)
 
 
 ## Education:
-### Master of Science (M.S.) in Data Science
-- **University:** University of Washington, Seattle
-- **Duration:** Sep. 2022 - Mar. 2024
+### Master of Science (M.S.) in Computer Science
+- **University:** Stony Brook University(SUNY), New York
+- **Duration:** Aug. 2022 - May. 2023
   
-### Bachelor of Technology (B.Tech.) in Electrical Engineering with a Minor in Economics
+### Bachelor of Technology (B.Tech.) in Computer Science and Engineering
 - **University:** Indian Institute of Technology, Hyderabad
-- **Duration:** Jul. 2017 - May 2021
+- **Duration:** Jul. 2016 - May 2020
 
 ## Technical Skills: 
 
