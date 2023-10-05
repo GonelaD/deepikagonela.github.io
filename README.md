@@ -6,9 +6,9 @@ I'm Deepika Gonela, a versatile professional with extensive experience in both *
 
 Educationally, I am pursuing a Master of Science in Computer Science with a specialization in Data Science at **Stony Brook University**. My academic voyage began at the renowned Indian Institute of Technology Hyderabad (IIT Hyd), where I earned my Bachelor of Technology in Computer Science. 
 
-I worked at **Adobe** where I built some cool websites - a notification system, so you don't miss updates and a dashboard, so you know what's happening. I got to work with **Adobe Creative Cloud**(IKR!), handling translations, localization, and globalization. (Basically how it would look in different regions - they are different, go search!)
+I worked at **Adobe** as **Member of Technical Staff 2** where I built some cool websites - a notification system, so you don't miss updates and a dashboard, so you know what's happening. I got to work with **Adobe Creative Cloud**(IKR!), handling translations, localization, and globalization. (Basically how it would look in different regions - they are different, go search!)
 
-I also interned at **Samsung** where I could change how the scrolling would work on Samsung TVs. For all the lazy people like me, out there, I designed an ML model that can scroll the channels or apps on the TV the way you want, without using the remote. All you need to do is think, and the TV will do it for you!
+I also interned at **Samsung** as **Software Intern** where I could change how the scrolling would work on Samsung TVs. For all the lazy people like me, out there, I designed an ML model that can scroll the channels or apps on the TV the way you want, without using the remote. All you need to do is think, and the TV will do it for you!
 
 
 I'm **actively seeking full-time roles starting March '24 as Software Engineer, Full Stack Developer, Machine Learning Engineer, Data Scientist, and Quantitative Analyst**. View my [Projects](projects.md#projects) and [Work Experience](experience.md#experience) here. 
