@@ -3,32 +3,29 @@
 
 # Experience
 
-## Amazon Web Services - AI 
-**Software Engineer (Machine Learning) Intern**  
-*Jun 2023 - Sep 2023 | Santa Clara, CA*
-- *Tech Stack: AWS Lambda, Step Functions, Glue, IAM, S3, CloudWatch; Java, TypeScript, Javascript, Kotlin*
-  
-- **Recommender Systems:** Implemented Serverless Model Training Workflows for Recommendation Algorithms for [AWS Personalize](https://docs.aws.amazon.com/personalize/latest/dg/how-it-works.html). Leveraged Infrastructure as Code principles to optimize infrastructure deployment.
-- **Workflows:** Migrated the workflows to AWS Step Functions & introduced support for **parallel model training**, mitigating two-phase deployments, addressing scaling issues, visualizing workflow components & **cutting debugging time by 50%**.
+## Adobe Systems - Cloud Technology 
+**Member of Technical Staff 2 (Full Stack Developer)**  
+*Aug 2020 - Aug 2022 | Bengaluru, India*
+- *Technologies: ReactJS, Typescript, Java, Springboot, Python, Adobe IMS *
 
-## [Publicis Sapient](https://www.publicissapient.com/solutions/kaas)
-**Senior Data Scientist**  
-*Aug 2021 - Sep 2022 | Bengaluru, India*
-- *Tech Stack: Natural Language Processing, Hugging Face, Elastic Search, Rasa, Dialogflow, Azure Bot Framework, MongoDB, Azure SQL, Python, Tableau, Spark, Scala, Tensorflow, PyTorch, RestAPI, AWS CloudWatch.*
+- **Frontend Development**:
+- In the domain of frontend development, I undertook the task of architecting websites from the ground up, harnessing the capabilities of React and TypeScript. The primary objective was to deliver exceptional user experiences by creating highly responsive and visually appealing web interfaces. Ensuring optimal performance for a user base exceeding **50,000+** on a global scale was paramount. This was achieved through meticulous optimization efforts. Notably, code quality was significantly elevated, reaching an impressive **95% test coverage** with Jest development. This strategic approach not only fortified the software's reliability but also contributed to an impeccably seamless user interaction.
+
+- **Backend Development**:
+- In the backend sphere, my focus was on the creation of a robust infrastructure utilizing Java and Spring Boot. This backend architecture served as the foundation supporting the front end. Security was of paramount importance, and this was addressed through the implementation of [**Adobe IMS**](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/ims-config-and-admin-console.html?lang=en), playing a pivotal role in the management of access control, ensuring data protection, and reinforcing system integrity. The backend's resilience and security were thus meticulously fortified.
+
+## Samsung Electronics - Research and Development
+**Software Intern(Machine Learning)**  
+*May 2019 - July 2019 | Delhi, India*
+- *Tech Stack: Python, Tensorflow, PyTorch, Keras*
 
 - **Aspect Based Sentiment Analysis:** Scraped employee reviews from anonymous review platforms and labelled over 1500 data points. Trained T5 and DistilBERT models and experimented with merging with benchmark datasets achieving best f1-score of 0.80 & 0.73 for negative & positive sentiments respectively.
 - **Conversational AI:** Built the cognitive intelligence chatbot platform using Elasticsearch, Rasa, and AWS to answer queries from user uploaded / client-specific knowledge base. Deployed to FastAPI endpoint for faster retrieval. The cognitive platform used for customer service resulted in **1.84x** more conversions. 
 - **Database Management:** Encrypted passwords on MongoDB backend using salting mechanism to secure **thousands of user accounts** across two platforms. Implemented a robust authorization and authentication system using row-level locking.
 - **Customer Analytics:** Leveraged query results from Azure SQL to perform preliminary data visualizations and conducted advanced analyses, such as Anomaly, Outlier Detection, and Clustering Analysis, on demographic and behavioral attributes to identify potential customers resulting in **23% reduced marketing costs**.
 
-**Data Science Intern**  
-*Jun 2020 - Jul 2020 | Bengaluru, India*
-- *Tech Stack: Computer Vision, Python, Deep Learning, OpenCV, OpenPose, Tensorflow*
-  
-- **Retail Video Analytics:** Built an end-to-end deep learning pipeline using 3D ConvNets, Keras OpenPose, and a transfer learning model built using a VGG based network to generate **real-time actionable business insights** from retail store CCTV footages. The model detects metrics - footfall & product interaction count with an accuracy of **99.9%**.
 
 ## Featured - 
-- Winner of "Partnering for Client Impact" in Internal Rewards and Recognitions at Publicis Sapient.
-- Among the top 150 students across India to attend the **Google Research Summer School (2020)**.
+- Runner-up of "G11n-innovation-thon" in Globalization Org at Adobe.
 
 [Resume](https://drive.google.com/file/d/1At305m3rSn5zuOt7-ZzUJ9BrtVHFJ1w4/view?usp=sharing) | [Projects](projects.md#projects) | [Email](mailto:deepika.gonela@stonybrook.edu) | [LinkedIn](https://www.linkedin.com/in/deepika-gonela/) | [GitHub](https://github.com/gonelad)
