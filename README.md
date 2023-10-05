@@ -28,11 +28,11 @@ I'm **actively seeking full-time roles starting March '24 as Software Engineer, 
 
 ## Technical Skills: 
 
---**Languages**:  C/C++, Java, Python, GoLang, React, SQL(PostgreSQL, MySQL), Javascript, HTML/CSS, SWIFT 
---**Platforms**: AWS, Apache Kafka (REST Proxy, Stream, Connect), Kubernetes 
---**Frameworks and libraries**: Spark(PySpark, Scala), Flask, Spring Boot, Jest, JUnit, Maven, NodeJS, ReactJS
---**Developer Tools**: Perforce, SonarQube, Jenkins, Git,  Docker, PostMan, VS Code,  Eclipse,  Android Studio 
---**Operating Systems**: Linux, MacOS, Ubuntu, Windows
+- **Languages**:  C/C++, Java, Python, GoLang, React, SQL(PostgreSQL, MySQL), Javascript, HTML/CSS, SWIFT 
+- **Platforms**: AWS, Apache Kafka (REST Proxy, Stream, Connect), Kubernetes 
+- **Frameworks and libraries**: Spark(PySpark, Scala), Flask, Spring Boot, Jest, JUnit, Maven, NodeJS, ReactJS
+- **Developer Tools**: Perforce, SonarQube, Jenkins, Git,  Docker, PostMan, VS Code,  Eclipse,  Android Studio 
+- **Operating Systems**: Linux, MacOS, Ubuntu, Windows
 
 
 
