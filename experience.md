@@ -15,10 +15,7 @@
 *May 2019 - July 2019 | Delhi, India*
 - *Tech Stack: Python, Tensorflow, PyTorch, Keras*
 
-- **Aspect Based Sentiment Analysis:** Scraped employee reviews from anonymous review platforms and labelled over 1500 data points. Trained T5 and DistilBERT models and experimented with merging with benchmark datasets achieving best f1-score of 0.80 & 0.73 for negative & positive sentiments respectively.
-- **Conversational AI:** Built the cognitive intelligence chatbot platform using Elasticsearch, Rasa, and AWS to answer queries from user uploaded / client-specific knowledge base. Deployed to FastAPI endpoint for faster retrieval. The cognitive platform used for customer service resulted in **1.84x** more conversions. 
-- **Database Management:** Encrypted passwords on MongoDB backend using salting mechanism to secure **thousands of user accounts** across two platforms. Implemented a robust authorization and authentication system using row-level locking.
-- **Customer Analytics:** Leveraged query results from Azure SQL to perform preliminary data visualizations and conducted advanced analyses, such as Anomaly, Outlier Detection, and Clustering Analysis, on demographic and behavioral attributes to identify potential customers resulting in **23% reduced marketing costs**.
+- During my internship at Samsung's Research and Development sector, I undertook essential responsibilities in the realm of machine learning, including data collection, preprocessing, and model development. A significant achievement was the creation of a highly precise machine learning model, boasting an impressive **98% accuracy** rate. This model was purpose-built to classify user intentions accurately, distinguishing between right and left, as well as up and down movements, thereby automating scrolling processes on Samsung Smart TVs. This experience deepened my technical expertise in advanced machine learning techniques and allowed me to actively contribute to user-centric technology advancements within the consumer electronics industry.
 
 
 ## Featured - 
