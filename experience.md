@@ -6,7 +6,7 @@
 ## Adobe Systems - Cloud Technology 
 **Member of Technical Staff 2 (Full Stack Developer)**  
 *Aug 2020 - Aug 2022 | Bengaluru, India*
-- *Technologies: ReactJS, Typescript, Java, Springboot, Python, Adobe IMS *
+- *Technologies: ReactJS, Typescript, Java, Springboot, Python, Adobe IMS*
 
 - **Frontend Development**:
 - In the domain of frontend development, I undertook the task of architecting websites from the ground up, harnessing the capabilities of React and TypeScript. The primary objective was to deliver exceptional user experiences by creating highly responsive and visually appealing web interfaces. Ensuring optimal performance for a user base exceeding **50,000+** on a global scale was paramount. This was achieved through meticulous optimization efforts. Notably, code quality was significantly elevated, reaching an impressive **95% test coverage** with Jest development. This strategic approach not only fortified the software's reliability but also contributed to an impeccably seamless user interaction.
