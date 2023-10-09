@@ -1,5 +1,5 @@
 
-[Resume](https://drive.google.com/file/d/1At305m3rSn5zuOt7-ZzUJ9BrtVHFJ1w4/view?usp=sharing) | [Projects](projects.md#projects) | [Email](mailto:deepika.gonela@stonybrook.edu) | [LinkedIn](https://www.linkedin.com/in/deepika-gonela/) | [GitHub](https://github.com/gonelad)
+[Resume](https://drive.google.com/file/d/1UP4-R4b8C0XHS_QPCwjXD3iT8Ufi1YiQ/view?usp=sharing) | [Projects](projects.md#projects) | [Email](mailto:deepika.gonela@stonybrook.edu) | [LinkedIn](https://www.linkedin.com/in/deepika-gonela/) | [GitHub](https://github.com/gonelad)
 
 # Experience
 
@@ -29,4 +29,4 @@
 ## Featured - 
 - Runner-up of "G11n-innovation-thon" in Globalization Org at Adobe.
 
-[Resume](https://drive.google.com/file/d/1At305m3rSn5zuOt7-ZzUJ9BrtVHFJ1w4/view?usp=sharing) | [Projects](projects.md#projects) | [Email](mailto:deepika.gonela@stonybrook.edu) | [LinkedIn](https://www.linkedin.com/in/deepika-gonela/) | [GitHub](https://github.com/gonelad)
+[Resume](https://drive.google.com/file/d/1UP4-R4b8C0XHS_QPCwjXD3iT8Ufi1YiQ/view?usp=sharing) | [Projects](projects.md#projects) | [Email](mailto:deepika.gonela@stonybrook.edu) | [LinkedIn](https://www.linkedin.com/in/deepika-gonela/) | [GitHub](https://github.com/gonelad)
