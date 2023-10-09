@@ -1,4 +1,4 @@
-[Resume](https://drive.google.com/file/d/1At305m3rSn5zuOt7-ZzUJ9BrtVHFJ1w4/view?usp=sharing) | [Experience](experience.md#experience) | [Projects](projects.md#projects) | [Email](mailto:deepika.gonela@stonybrook.edu) | [LinkedIn](https://www.linkedin.com/in/deepika-gonela/) 
+[Resume](https://drive.google.com/file/d/1UP4-R4b8C0XHS_QPCwjXD3iT8Ufi1YiQ/view?usp=sharing) | [Experience](experience.md#experience) | [Projects](projects.md#projects) | [Email](mailto:deepika.gonela@stonybrook.edu) | [LinkedIn](https://www.linkedin.com/in/deepika-gonela/) 
 
 # Greetings!
 
@@ -14,7 +14,7 @@ I also interned at **Samsung** as **Software Intern** where I could change how t
 I'm **actively seeking full-time roles starting March '24 as Software Engineer, Full Stack Developer, Machine Learning Engineer, Data Scientist, and Quantitative Analyst**. View my [Projects](projects.md#projects) and [Work Experience](experience.md#experience) here. 
 
 ## Know more:
-[Resume](https://drive.google.com/file/d/1At305m3rSn5zuOt7-ZzUJ9BrtVHFJ1w4/view?usp=sharing) | [Experience](experience.md#experience) | [Projects](projects.md#projects)
+[Resume](https://drive.google.com/file/d/1UP4-R4b8C0XHS_QPCwjXD3iT8Ufi1YiQ/view?usp=sharing) | [Experience](experience.md#experience) | [Projects](projects.md#projects)
 
 
 ## Education:
