@@ -17,7 +17,6 @@
 
 - Meet EyeCanDo, an exciting iOS app that lets you edit text using just your eyes. It's designed to make text editing easy and accurate on your iPhone or iPad. No more tapping on the screen to type! We've made it super simple. Plus, it's great for people who might have trouble using their hands. With EyeCanDo, you can edit text with just a glance and say what you want. It's all about making your life easier. Try it now and see how it can change the way you edit text on your iOS device!
 
-- 
 ## Samsung Electronics - Research and Development
 **Software Intern(Machine Learning)**  
 *May 2019 - July 2019 | Delhi, India*
