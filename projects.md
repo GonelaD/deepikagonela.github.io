@@ -1,4 +1,4 @@
-[Resume](https://drive.google.com/file/d/1At305m3rSn5zuOt7-ZzUJ9BrtVHFJ1w4/view?usp=sharing) | [Experience](experience.md#experience) | [Email](mailto:deepika.gonela@stonybrook.edu) | [LinkedIn](https://www.linkedin.com/in/deepika-gonela/) | [GitHub](https://github.com/gonelad)
+[Resume](https://drive.google.com/file/d/1UP4-R4b8C0XHS_QPCwjXD3iT8Ufi1YiQ/view?usp=sharing) | [Experience](experience.md#experience) | [Email](mailto:deepika.gonela@stonybrook.edu) | [LinkedIn](https://www.linkedin.com/in/deepika-gonela/) | [GitHub](https://github.com/gonelad)
 
 # Projects:
 
@@ -52,4 +52,4 @@ Uncovered data insights around the Nike customer journey and provide data-backed
 Devised user personas, conducted interviews to validate assumptions and produced a customer journey map pinpointing key touchpoints and areas for improvement, contributing to an enhanced user experience for Amazon Prime Video.
 
 
-[Resume](https://drive.google.com/file/d/1At305m3rSn5zuOt7-ZzUJ9BrtVHFJ1w4/view?usp=sharing) | [Experience](experience.md#experience) | [Email](mailto:deepika.gonela@stonybrook.edu) | [LinkedIn](https://www.linkedin.com/in/deepika-gonela/) | [GitHub](https://github.com/gonelad)
+[Resume](https://drive.google.com/file/d/1UP4-R4b8C0XHS_QPCwjXD3iT8Ufi1YiQ/view?usp=sharing) | [Experience](experience.md#experience) | [Email](mailto:deepika.gonela@stonybrook.edu) | [LinkedIn](https://www.linkedin.com/in/deepika-gonela/) | [GitHub](https://github.com/gonelad)
