@@ -1,6 +1,11 @@
 title: Deepika Gonela
-logo: 
-theme: jekyll-theme-minimal
+logo: assets/img/FullSizeRender.jpeg
+description: Welcome to my portfolio!
+plugins:
+- jekyll-theme-minimal # add this line to the plugins list if you already have one
+github:
+  is_project_page: false
+
 
 navigation:
   - title: Home
